@@ -3,10 +3,6 @@
 
 
 
-
-
-
-
 {
          "name": "VIP-NaiTuner-TH-02-TRUE",
          "url": "https://raw.githubusercontent.com/NaiTuner/SDAZX/main/NaiTuner-OK-TRUE%2B.ovpn"
@@ -37,5 +33,5 @@ TUNER VPN
 
 \n\nเวอร์ชั่นไฟล์:1.1",
 "title":"New Update File" ,
-   "version":3
+   "version":4
 }
