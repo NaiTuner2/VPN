@@ -3,26 +3,10 @@
 
 
 
-{
-         "name": "VIP-OPENLAND-TH-01-AIS",
-         "url": "https://raw.githubusercontent.com/NaiTuner/SDAZX/main/OPENLAND-AIS.ovpn"
-      }
-,
-{
-         "name": "VIP-OPENLAND-TH-01-DTAC",
-         "url": "https://raw.githubusercontent.com/NaiTuner/SDAZX/main/OPENLAND-DTAC.ovpn"
-      }
-,
-{
-         "name": "VIP-NaiTuner-TH-01-DTAC",
-         "url": "https://raw.githubusercontent.com/NaiTuner/SDAZX/main/OPENLAND-DTAC.ovpn"
-      }
-,
-{
-         "name": "TEST-NaiTuner-TH-01-TRUE",
-         "url": "https://raw.githubusercontent.com/NaiTuner/SDAZX/main/NaiTuner-OK-TRUE.ovpn"
-      }
-,
+
+
+
+
 {
          "name": "VIP-NaiTuner-TH-02-TRUE",
          "url": "https://raw.githubusercontent.com/NaiTuner/SDAZX/main/NaiTuner-OK-TRUE%2B.ovpn"
@@ -51,7 +35,7 @@ TUNER VPN
 ✅️ไม่มีเก็บเงินย้อนหลัง
 
 
-\n\nเวอร์ชั่นไฟล์:1",
+\n\nเวอร์ชั่นไฟล์:1.1",
 "title":"New Update File" ,
-   "version":2
+   "version":3
 }
